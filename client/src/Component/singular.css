@@ -1,0 +1,15 @@
+.jp{
+    align-items: center;
+    margin-top: 10%;
+}
+button{
+    background-color: antiquewhite;
+    font-size: large;
+    height: 10vh;
+    width: 10vw;
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
+label{
+    margin-right: 13%;
+}
